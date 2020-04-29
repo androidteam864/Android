@@ -1,0 +1,8 @@
+Git init (First Time)
+Git global --config email (First Time)
+Git global --config name (First Time)
+Git add . or Git add nameofthefile 
+Git add remote remotename master linkhere (If it is first time )
+Git commit -m "Your message here" 
+Git push remotename master 
+email and password of the github account you want to push the data
