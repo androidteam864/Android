@@ -2,6 +2,7 @@ Git init (First Time)
 Git global --config email (First Time)
 Git global --config name (First Time)
 Git add . or Git add nameofthefile 
+Git status is used to check whether the data is added or not(or to check the status of the data)
 Git add remote remotename master linkhere (If it is first time )
 Git commit -m "Your message here" 
 Git push remotename master 
